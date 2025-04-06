@@ -1,0 +1,21 @@
+# Do not track environment variables
+.env
+
+# Python environment folders
+venv/
+fin-venv/
+
+# Bytecode + caches
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/

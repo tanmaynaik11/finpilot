@@ -1,0 +1,53 @@
+Description,Amount,Category
+Netflix Subscription,15.99,Entertainment
+Spotify Premium,9.99,Entertainment
+Rent Payment,1200.00,Fixed
+Electricity Bill,85.00,Utilities
+Water Bill,40.00,Utilities
+Internet Bill,60.00,Utilities
+Gym Membership,50.00,Health
+Phone Plan,45.00,Utilities
+Health Insurance,300.00,Health
+Car Insurance,120.00,Fixed
+Amazon Prime,12.99,Entertainment
+Uber Ride,25.75,Transport
+Lyft Ride,18.40,Transport
+McDonald's,9.50,Food
+Starbucks,5.75,Food
+Groceries - Walmart,120.00,Food
+Target Shopping,75.00,Variable
+Clothing - Zara,89.99,Luxury
+Movie Tickets,30.00,Entertainment
+Airbnb Booking,200.00,Travel
+Flight to LA,450.00,Travel
+Concert Tickets,100.00,Entertainment
+Uber Eats,27.40,Food
+Domino's Pizza,19.99,Food
+Trader Joe's Grocery,88.00,Food
+Hulu Subscription,11.99,Entertainment
+Donation - Red Cross,25.00,Variable
+Toll Payment,7.50,Transport
+Parking Fee,12.00,Transport
+Doctor Visit,100.00,Health
+Pharmacy - CVS,35.00,Health
+Electric Bill,80.00,Utilities
+Gas Station,45.00,Transport
+Dry Cleaning,30.00,Luxury
+Salon Visit,70.00,Luxury
+Online Course,49.99,Education
+Bank Fee,5.00,Fixed
+Laundry,10.00,Variable
+Local Market,20.00,Food
+Bus Fare,2.75,Transport
+Magazine Subscription,7.99,Entertainment
+Pet Supplies,60.00,Variable
+Amazon Order - iPhone Case,42.00,Luxury
+Movie Rental,6.99,Entertainment
+Etsy Purchase - Handmade Ring,23.00,Luxury
+Nail Salon,35.00,Luxury
+Gas Bill,65.00,Utilities
+Child Tuition Fee,600.00,Education
+Kindle Books,15.00,Education
+Uber Commute,18.00,Transport
+Birthday Gift - Watch,120.00,Luxury
+Mental Health Therapy,120.00,Health
